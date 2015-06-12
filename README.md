@@ -1,4 +1,6 @@
 # schedulacity
+Timeline: 1 week
+
 Cloud based client management software that allows you to schedule sessions, track attendance, and handle communication.
 
 ## Finalized Name, Tag Line, Elevator Pitch
